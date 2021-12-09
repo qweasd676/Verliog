@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/ModelSim program/HW2/lab5
+vsht_r_l
+Z1 !s110 1554902683
+!i10b 1
+!s100 X?7G8QA`nQMC5[:LO_Fa;0
+IKU?87QV?4VfK=J:HP<R?l1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1553668590
+8E:/ModelSim program/HW2/lab5/sht_r_l.v
+FE:/ModelSim program/HW2/lab5/sht_r_l.v
+L0 5
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1554902683.000000
+!s107 E:/ModelSim program/HW2/lab5/sht_r_l.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim program/HW2/lab5/sht_r_l.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vsht_T
+R1
+!i10b 1
+!s100 `5^X[_PYlP@<LJLB15=:m1
+Ie4fIRO?>;Lhb0L0;O3f:N0
+R2
+R0
+w1554815882
+8E:/ModelSim program/HW2/lab5/sht_T.v
+FE:/ModelSim program/HW2/lab5/sht_T.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 E:/ModelSim program/HW2/lab5/sht_T.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/ModelSim program/HW2/lab5/sht_T.v|
+!s101 -O0
+!i113 1
+R5
+nsht_@t
